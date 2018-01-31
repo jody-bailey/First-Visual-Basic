@@ -1,0 +1,22 @@
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe.config
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.pdb
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.xml
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.frmMain.resources
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.Resources.resources
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.exe
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.xml
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.pdb
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe.config
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.pdb
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.xml
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbprojResolveAssemblyReference.cache
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.frmMain.resources
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.Resources.resources
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbproj.GenerateResource.Cache
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbproj.CoreCompileInputs.cache
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.exe
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.xml
+C:\Users\jodyb\Desktop\Visual Basic\VS2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.pdb
